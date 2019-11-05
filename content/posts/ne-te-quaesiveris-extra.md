@@ -1,5 +1,5 @@
 ---
-date: 2019-08-13T22:40:32Z
+date: 2019-08-13T22:40:32.000+00:00
 title: Ne Te Quaesiveris Extra
 author: Ralph Waldo Emerson
 hero_image: "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
@@ -24,3 +24,7 @@ Not for nothing one face, one character, one fact, makes much impression on him,
 It may be safely trusted as proportionate and of good issues, so it be faithfully imparted, but God will not have his work made manifest by cowards. A man is relieved and gay when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace. It is a deliverance which does not deliver. In the attempt his genius deserts him; no muse befriends; no invention, no hope.
 
 Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not minors and invalids in a protected corner, not cowards fleeing before a revolution, but guides, redeemers, and benefactors, obeying the Almighty effort, and advancing on Chaos and the Dark.
+
+Some more stuff from John Kelly. And I'm writing and i'm Writing.
+
+And this is what more writing looks like.
